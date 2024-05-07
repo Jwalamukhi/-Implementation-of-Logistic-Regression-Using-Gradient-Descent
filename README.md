@@ -34,11 +34,21 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 13.Print Results: Print the predictions and the actual values (Y) for comparison.
 
+
+
+
+
+
+
+
+
 ## Program:
-### Program to implement the the Logistic Regression Using Gradient Descent.
-### Developed by:Jwalamukhi S 
-### RegisterNumber:212223040079  
+##### Program to implement the the Logistic Regression Using Gradient Descent.
+##### Developed by:Jwalamukhi S 
+##### RegisterNumber:212223040079  
 ```
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -101,7 +111,30 @@ print(y_prednew)
 
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+dataset:
+![image](https://github.com/Jwalamukhi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145953628/aa33949a-7533-43fa-ab13-c14c229151ea)
+dataset.dtypes:
+![image](https://github.com/Jwalamukhi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145953628/7235b505-b6c1-4f7e-94c2-4490441f5282)
+dataset:
+![image](https://github.com/Jwalamukhi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145953628/e2732b96-9a0e-4b43-959e-08c893cd82ab)
+Y:
+![image](https://github.com/Jwalamukhi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145953628/d92951c4-7c35-410d-b514-be0b179f6b7b)
+y_pred:
+![image](https://github.com/Jwalamukhi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145953628/ec1f351a-1254-4607-9253-e81181eea287)
+Y:
+![image](https://github.com/Jwalamukhi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145953628/0e8f27e7-a284-4141-b0ea-ce6edb0ceb3a)
+y_prednew:
+![image](https://github.com/Jwalamukhi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145953628/e3ae7e20-dffa-4c3d-ba6b-7471b0b88090)
+y_prednew:
+![image](https://github.com/Jwalamukhi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145953628/498a00fd-439a-473f-b482-dfc6b4bc7446)
+
+
+
+
+
+
+
+
 
 
 ## Result:
